@@ -1,4 +1,7 @@
 # Aravind Garapati — Portfolio
+<img width="1872" height="926" alt="image" src="https://github.com/user-attachments/assets/e8b695f7-253d-4296-933c-37d70319c5b7" />
+<img width="1742" height="540" alt="image" src="https://github.com/user-attachments/assets/9119a9b2-40ee-485d-a916-9850acbf70e3" />
+<img width="1799" height="810" alt="image" src="https://github.com/user-attachments/assets/35835deb-b1e0-4d90-990a-bff8dadea921" />
 
 A personal portfolio website built with **React 18 + Vite + Tailwind CSS** (frontend) and **FastAPI** (backend).
 
